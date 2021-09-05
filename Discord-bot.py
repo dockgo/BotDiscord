@@ -16,7 +16,7 @@ Roles = ["CSGO", "Garry's Mod", "GTA 5"]  # Add your server roles here.
 
 blog = build("blogger", "v3", developerKey=Key)
 
-Token = 'ODc3MDQ1MzUwNjM5MjI2ODkw.YRs6Ig.6qnSAhuNqbOtOo9h3OOHBBbX4aA' # Replace with Discord Bot Token.
+Token = 'ODc3MDQ1MzUwNjM5MjI2ODkw.YRs6Ig.EkLB169KX-j1o7BCmaNiN6wsEnA' # Replace with Discord Bot Token.
 
 
 @client.event
